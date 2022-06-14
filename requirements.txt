@@ -5,3 +5,4 @@ pillow
 keras
 cv2
 matplotlib
+pylab
