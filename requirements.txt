@@ -6,3 +6,4 @@ keras
 cv2
 matplotlib
 pylab
+opencv-python
