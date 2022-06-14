@@ -3,7 +3,7 @@ streamlit
 numpy
 pillow
 keras
-cv2
+opencv-python
 matplotlib
 pylab
-opencv-python
+
