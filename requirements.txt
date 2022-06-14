@@ -5,5 +5,5 @@ pillow
 keras
 opencv-python
 matplotlib
-pylab
+
 
