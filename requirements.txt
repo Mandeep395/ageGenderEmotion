@@ -1,6 +1,6 @@
 streamlit
 numpy
-python-opencv
+opencv
 keras
 matplotlib
 pillow
