@@ -32,10 +32,10 @@ emotion_ranges= ['positive','negative','neutral']
 
 import streamlit as st
 st.write("""
-         # Rock-Paper-Scissor Hand Sign Prediction
+         # Customer ,Age , Gender and Emotion Prediction
          """
          )
-st.write("This is a simple image classification web app to predict rock-paper-scissor hand sign")
+st.write("This is a simple image classification web app to predict age , gender and emotion of customer.")
 file = st.file_uploader("Please upload an image file", type=["jpg", "png","jpeg"])
 ######
 if file is None:
