@@ -1,10 +1,6 @@
-click
-Flask
-Flask-Login
-Flask-SQLAlchemy
-itsdangerous
-Jinja2
-MarkupSafe
-python-dotenv
-SQLAlchemy
-Werkzeug
+streamlit
+numpy
+python-opencv
+keras
+matplotlib
+pillow
